@@ -1,5 +1,5 @@
 function diff_manchester( bitstream )
-    %DIFF_MANCHESTER Differencial Manchester encoding
+    %DIFF_MANCHESTER Differential Manchester encoding
     %   sample data:
     %       d = [ 0 1 0 0 1 1 0 0 0 1 1 ]
     %   usage:
