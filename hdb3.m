@@ -175,6 +175,10 @@ function hdb3( bitstream )
         % parameters:
         %   current_level: pulse level
         %   ones:          number of transmitted ones since last violation
+
+        % TODO:
+        %   pass pattern arrays as parameters to make it compatible
+        %   with octave.
         if current_level > 0
             if mod(ones, 2) == 0
                 pattern = positive_even;
