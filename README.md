@@ -19,4 +19,18 @@ Each function accepts an array containing '1' and '0' values.
 * `b8zs()` Bipolar with 8-Zeros Substitution
 * `hdb3()` High Density Bipolar 3-zeros
 
+Screenshots
+-----------
+See the project's [wiki page].
+
+License
+-------
+See COPYING file.
+
+Authors
+-------
+©2012 Tasos Latsas
+
+
 [this data encoding project]: http://www.mathworks.com/matlabcentral/fileexchange/13553-data-encoding-ami-nrz-rz-polar-bipolar-manchester
+[wiki page]: https://github.com/tlatsas/line-coding/wiki
